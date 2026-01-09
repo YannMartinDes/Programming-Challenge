@@ -1,4 +1,5 @@
 # Damage Ticket Solver
+<img width="1031" height="503" alt="image" src="https://github.com/user-attachments/assets/fae6de71-9667-4df5-8f03-0384a7ca3677" />
 
 ## 1. Problem Description
 
@@ -96,6 +97,8 @@ A presentation is provided with this project and explains:
 
 The presentation follows the same logic as the implementation.
 
+<img width="1278" height="716" alt="image" src="https://github.com/user-attachments/assets/2272fc93-9e75-4508-a4fb-921583df8fc0" />
+
 ---
 
 ## 4. Input Format
@@ -134,6 +137,3 @@ Or using an input file: `python damage_ticket.py < input.txt`
 - `NON` is printed if the solution is ambiguous or cannot be deduced logically
 
 ---
-
-
-
